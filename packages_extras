@@ -1,1 +1,1 @@
-sudo apt install libmkl-dev libmkl-full-dev intel-mkl-full intel-microcode console-setup 
+sudo apt install libmkl-dev libmkl-full-dev intel-mkl-full intel-microcode console-setup libmkl-rt libomp-dev libomp-7-dev
