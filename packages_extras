@@ -1,1 +1,5 @@
+# PERFORMANCE i7
 sudo apt install libmkl-dev libmkl-full-dev intel-mkl-full intel-microcode console-setup libmkl-rt libomp-dev libomp-7-dev
+
+# IDIOMA PT-BR
+sudo apt install firefox-esr-l10n-pt-br firefox-esr libreoffice-l10n-pt-br libreoffice-grammarcheck-pt-br libreoffice-help-pt-br hunspell hunspell-pt-br hyphen-pt-br ibrazilian aspell-pt-br wbrazilian util-linux-locales spellutils brazilian-conjugate spell 
